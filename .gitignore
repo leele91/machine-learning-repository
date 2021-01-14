@@ -14,6 +14,9 @@ station_data/
 gov_data_api_key.txt
 UCI HAR Dataset/
 IMDB/
+model/
+Galton.txt
+
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
