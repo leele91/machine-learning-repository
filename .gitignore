@@ -17,6 +17,7 @@ IMDB/
 model/
 Galton.txt
 NaverMovie/
+keys/
 
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
